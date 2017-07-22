@@ -4,6 +4,10 @@ Requirements:
 - Node v6
 - npm v3
 
+Sample view: 
+[here](http://192.168.1.74:8080)
+
+
 To run the app locally:
 
 ```bash
