@@ -1,7 +1,4 @@
-# react-example
-
-React example app that demonstrates using [React] with [webpack], and [babeljs], as well as project structure.
-
+This React app acts a search engine for github users.It uses [React] with [webpack], and [babeljs], as well as project structure.
 Requirements:
 - git
 - Node v6
