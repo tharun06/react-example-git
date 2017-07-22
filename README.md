@@ -10,7 +10,7 @@ Requirements:
 To run the app locally:
 
 ```bash
-git clone https://github.com/mzabriskie/react-example.git
+git clone https://github.com/tharun06/react-example-git.git
 cd react-example
 npm run setup
 npm run dev
